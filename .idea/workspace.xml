@@ -10,14 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add some menue items" />
+    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add some menue items">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myHomepage" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bV2UkN2xaQUdyHuuD42pq40726" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,6 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,6 +54,7 @@
       <workItem from="1590351392133" duration="5000" />
       <workItem from="1590351414048" duration="254000" />
       <workItem from="1590415960769" duration="6000" />
+      <workItem from="1590416907289" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590313779284</created>
@@ -98,6 +103,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/myHomepage" />
+      <path value="$PROJECT_DIR$/myHomepage/MyPortfolio" />
+    </ignored-roots>
     <MESSAGE value="add my portfolio hompage" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="add my portfolio page" />
@@ -106,6 +115,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add some menue items" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1590416941952">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590416941952" />
     <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590351466117">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
