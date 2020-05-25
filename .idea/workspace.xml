@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add some menue items" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myHomepage" />
+  </component>
+  <component name="ProjectId" id="1bV2UkN2xaQUdyHuuD42pq40726" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="" />
+      <created>1588702957197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588702957197</updated>
+      <workItem from="1588702958327" duration="1838000" />
+      <workItem from="1589198463361" duration="1658000" />
+      <workItem from="1589203520492" duration="1568000" />
+      <workItem from="1589821012457" duration="649000" />
+      <workItem from="1589912052541" duration="90000" />
+      <workItem from="1590311308790" duration="15548000" />
+      <workItem from="1590351392133" duration="5000" />
+      <workItem from="1590351414048" duration="254000" />
+      <workItem from="1590415960769" duration="6000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1590313779284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590313779284</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add my portfolio page">
+      <created>1590314242861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590314242861</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add my menu&#10;add position for flexbox">
+      <created>1590350561473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590350561473</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add some menue items">
+      <created>1590350968980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590350968980</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add my portfolio hompage" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="add my portfolio page" />
+    <MESSAGE value="add my menu&#10;add position for flexbox" />
+    <MESSAGE value="add some menue items" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some menue items" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590351466117">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590351466117" />
+  </component>
+</project>
