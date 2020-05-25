@@ -1,6 +1,11 @@
 :root{
     --background-color: #3a7bd5;
     --main-background-img: -webkit-radial-gradient(top, circle cover, #00d2ff 0%, #3a7bd5 80%);
+    --windows-close-color: #ff6159;
+    --windows-minimiz-color:#ffbf2f;
+    --windows-maximize-color: #25cc3e;
+    --promp-color: #bde371;
+    --path-color: #5ed7ff;
 
 }
 
@@ -68,13 +73,13 @@ textarea, input, button {
     margin: 0 8px;
 }
 .window .buttons .close {
-    background-color: #ff6159;
+    background-color: var(--windows-close-color);
 }
 .window .buttons .minimize {
-    background-color: #ffbf2f;
+    background-color: var(--windows-minimiz-color);
 }
 .window .buttons .maximize {
-    background-color: #25cc3e;
+    background-color: var(--windows-maximize-color);
 }
 .window .terminal {
     padding: 4px;
@@ -87,7 +92,6 @@ textarea, input, button {
     font-size: 14px;
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
-    white-space: -pre-wrap;
     white-space: -o-pre-wrap;
     word-wrap: break-word;
     border-bottom-left-radius: 5px;
@@ -100,11 +104,11 @@ textarea, input, button {
 }
 
 .prompt {
-    color: #bde371;
+    color: var(--promp-color);
 }
 
 .path {
-    color: #5ed7ff;
+    color: var(--path-color);
 }
 
 @keyframes blink {
