@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add some menue items">
-      <change beforePath="$PROJECT_DIR$/js/myScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myScript.js" afterDir="false" />
-    </list>
+    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add new name" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +51,7 @@
       <workItem from="1590351392133" duration="5000" />
       <workItem from="1590351414048" duration="254000" />
       <workItem from="1590415960769" duration="6000" />
-      <workItem from="1590416907289" duration="142000" />
+      <workItem from="1590416907289" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590313779284</created>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590416950491</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add new name">
+      <created>1590417078237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590417078237</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,17 +123,18 @@
     <MESSAGE value="add my portfolio page" />
     <MESSAGE value="add my menu&#10;add position for flexbox" />
     <MESSAGE value="add some menue items" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some menue items" />
+    <MESSAGE value="add new name" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new name" />
   </component>
   <component name="WindowStateProjectService">
     <state x="221" y="100" key="SettingsEditor" timestamp="1590416941952">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590416941952" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590416952989">
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590417082390">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590416952989" />
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590417082390" />
     <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590351466117" />
   </component>
 </project>
