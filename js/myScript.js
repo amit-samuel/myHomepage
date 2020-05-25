@@ -180,7 +180,7 @@ $(document).ready(function() {
     });
 
 // Set the window title
-    title.text("1. marc@mbp: ~ (zsh)");
+    title.text("A.Samuel@mbp: ~ (zsh)");
 
 // Get the date for our fake last-login
     var date = new Date().toString(); date = date.substr(0, date.indexOf("GMT") - 1);
