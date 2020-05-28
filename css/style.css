@@ -9,6 +9,7 @@
 
 }
 
+
 .main-logo {
     position: absolute;
     top: 10%;
@@ -25,7 +26,7 @@ html, body {
 body {
     background: var(--background-color);
     background-image: var(--main-background-img);
-    display: flex;
+    display: table-caption;
     justify-content: center;
     align-items: center;
 }
@@ -53,6 +54,7 @@ textarea, input, button {
 .window {
     animation: bounceIn 1s ease-in-out;
     width: 640px;
+    padding-top: 40%;
 }
 .window .handle {
     height: 22px;
@@ -128,6 +130,35 @@ textarea, input, button {
     }
 }
 
-.main-logo {
-    position: fixed;
+
+/*Footer*/
+
+.icon-so {
+    width: 5%;
+    height: 5%;
+}
+
+.page-footer {
+    clear: both;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-align: center
+}
+@media only screen and (min-width:200px) {
+    /* For mobile phones: */
+    .menu, .main, .right {
+        width:100%;
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    /* For mobile phones: */
+    .menu, .main, .right {
+        width:100%;
+    }
 }

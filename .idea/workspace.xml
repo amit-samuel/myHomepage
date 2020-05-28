@@ -10,9 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add new name">
+    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add new var color">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,10 @@
       <workItem from="1590351392133" duration="5000" />
       <workItem from="1590351414048" duration="254000" />
       <workItem from="1590415960769" duration="6000" />
-      <workItem from="1590416907289" duration="1248000" />
+      <workItem from="1590416907289" duration="8503000" />
+      <workItem from="1590441022849" duration="451000" />
+      <workItem from="1590443459837" duration="123000" />
+      <workItem from="1590478016057" duration="2257000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590313779284</created>
@@ -98,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590417078237</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add new var color">
+      <created>1590418256401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590418256401</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,17 +139,22 @@
     <MESSAGE value="add my menu&#10;add position for flexbox" />
     <MESSAGE value="add some menue items" />
     <MESSAGE value="add new name" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new name" />
+    <MESSAGE value="add new var color" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new var color" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="508" y="247" key="#Web_Browsers" timestamp="1590421217529">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="508" y="247" key="#Web_Browsers/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590421217529" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1590416941952">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590416941952" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590417082390">
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590418260290">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590417082390" />
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590418260290" />
     <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590351466117" />
   </component>
 </project>

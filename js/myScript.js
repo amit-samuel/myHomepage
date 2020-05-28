@@ -13,14 +13,16 @@ $(document).ready(function() {
     }
 
     function help() {
-        terminal.append("There is no help... MUAHAHAHAHA. >:D\n");
+        terminal.append(ls+ "\n");
     }
-
+/*
     function echo(args) {
         var str = args.join(" ");
         terminal.append(str + "\n");
     }
 
+ */
+/*
     function fortune() {
         var xhr = new XMLHttpRequest();
         xhr.open('GET', 'https://cdn.rawgit.com/bmc/fortunes/master/fortunes', false);
@@ -32,8 +34,11 @@ $(document).ready(function() {
             terminal.append(fortune + "\n");
         }
     }
+    */
+
     // END COMMANDS
 
+    var ls = "please select:" + " about" + " conact" + " work" + " clear" + " help";
     var title = $(".title");
     var terminal = $(".terminal");
     var prompt = "➜";
@@ -50,11 +55,11 @@ $(document).ready(function() {
         "name": "help",
         "function": help
     }, {
-        "name": "fortune",
-        "function": fortune
+        "name": "about",
+        "function": about
     }, {
-        "name": "echo",
-        "function": echo
+        "name": "work",
+        "function": work
     }];
 
     function processCommand() {
@@ -186,5 +191,8 @@ $(document).ready(function() {
     var date = new Date().toString(); date = date.substr(0, date.indexOf("GMT") - 1);
 
 // Display last-login and promt
-    terminal.append("Last login: " + date + " on ttys000\n"); displayPrompt();
+    terminal.append("Last login: " + date + " on ttys000\n");
+    terminal.append(help());
+    terminal.append();
+    displayPrompt();
 });
