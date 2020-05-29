@@ -15,6 +15,23 @@ $(document).ready(function() {
     function help() {
         terminal.append(ls+ "\n");
     }
+
+
+    function about() {
+        terminal.append()
+    }
+
+    function work() {
+        terminal.append("Web developer \n");
+        terminal.append("Front-end development, Back-end development\n");
+        terminal.append(help());
+    }
+    function email() {
+        terminal.append("info@amit-samuel.de \n");
+        terminal.append(help());
+    }
+
+
 /*
     function echo(args) {
         var str = args.join(" ");
@@ -38,7 +55,7 @@ $(document).ready(function() {
 
     // END COMMANDS
 
-    var ls = "please select:" + " about" + " conact" + " work" + " clear" + " help";
+    var ls = "please select: \n" + "about " + "conact " + "work \n" + "clear " + "help " +"  email \n";
     var title = $(".title");
     var terminal = $(".terminal");
     var prompt = "➜";
@@ -60,6 +77,9 @@ $(document).ready(function() {
     }, {
         "name": "work",
         "function": work
+    }, {
+        "name": "email",
+        "function": email
     }];
 
     function processCommand() {
