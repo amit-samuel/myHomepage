@@ -13,35 +13,14 @@ $(document).ready(function() {
     }
 
     function help() {
-        terminal.append(ls+ "\n");
+        terminal.append("There is no help... MUAHAHAHAHA. >:D\n");
     }
 
-
-    function about() {
-        terminal.append()
-    }
-
-    function work() {
-        terminal.append("Web developer \n");
-        terminal.append("Front-end development, Back-end development\n");
-        terminal.append("Entrepreneur\n");
-        terminal.append("real estate investor")
-        terminal.append(help());
-    }
-    function email() {
-        terminal.append("info@amit-samuel.de \n");
-        terminal.append(help());
-    }
-
-
-/*
     function echo(args) {
         var str = args.join(" ");
         terminal.append(str + "\n");
     }
 
- */
-/*
     function fortune() {
         var xhr = new XMLHttpRequest();
         xhr.open('GET', 'https://cdn.rawgit.com/bmc/fortunes/master/fortunes', false);
@@ -53,11 +32,8 @@ $(document).ready(function() {
             terminal.append(fortune + "\n");
         }
     }
-    */
-
     // END COMMANDS
 
-    var ls = "please select: \n" + "about " + "conact " + "work \n" + "clear " + "help " +"  email \n";
     var title = $(".title");
     var terminal = $(".terminal");
     var prompt = "➜";
@@ -74,14 +50,11 @@ $(document).ready(function() {
         "name": "help",
         "function": help
     }, {
-        "name": "about",
-        "function": about
+        "name": "fortune",
+        "function": fortune
     }, {
-        "name": "work",
-        "function": work
-    }, {
-        "name": "email",
-        "function": email
+        "name": "echo",
+        "function": echo
     }];
 
     function processCommand() {
@@ -207,14 +180,11 @@ $(document).ready(function() {
     });
 
 // Set the window title
-    title.text("A.Samuel@mbp: ~ (zsh)");
+    title.text("1. marc@mbp: ~ (zsh)");
 
 // Get the date for our fake last-login
     var date = new Date().toString(); date = date.substr(0, date.indexOf("GMT") - 1);
 
 // Display last-login and promt
-    terminal.append("Last login: " + date + " on ttys000\n");
-    terminal.append(help());
-    terminal.append();
-    displayPrompt();
+    terminal.append("Last login: " + date + " on ttys000\n"); displayPrompt();
 });
