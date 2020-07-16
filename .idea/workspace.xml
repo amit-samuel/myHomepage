@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add new name" />
+    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="fix width and height">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myScript.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectId" id="1bV2UkN2xaQUdyHuuD42pq40726" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +61,15 @@
       <workItem from="1590351392133" duration="5000" />
       <workItem from="1590351414048" duration="254000" />
       <workItem from="1590415960769" duration="6000" />
-      <workItem from="1590416907289" duration="537000" />
+      <workItem from="1590416907289" duration="8503000" />
+      <workItem from="1590441022849" duration="451000" />
+      <workItem from="1590443459837" duration="123000" />
+      <workItem from="1590478016057" duration="5062000" />
+      <workItem from="1591128000446" duration="2244000" />
+      <workItem from="1594847133865" duration="2177000" />
+      <workItem from="1594880418652" duration="158000" />
+      <workItem from="1594880875085" duration="44000" />
+      <workItem from="1594881171206" duration="1685000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590313779284</created>
@@ -95,7 +113,63 @@
       <option name="project" value="LOCAL" />
       <updated>1590417078237</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add new var color">
+      <created>1590418256401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590418256401</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update func fortune and echo">
+      <created>1590699839227</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590699839227</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add function email">
+      <created>1590783133395</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590783133395</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add css update">
+      <created>1594847243279</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594847243279</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add css update">
+      <created>1594847553374</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594847553374</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add bootstrap">
+      <created>1594847740208</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594847740208</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add bootstrap">
+      <created>1594847846142</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594847846142</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add new css">
+      <created>1594847993299</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594847993299</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +181,20 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -124,17 +212,28 @@
     <MESSAGE value="add my menu&#10;add position for flexbox" />
     <MESSAGE value="add some menue items" />
     <MESSAGE value="add new name" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new name" />
+    <MESSAGE value="add new var color" />
+    <MESSAGE value="update func fortune and echo" />
+    <MESSAGE value="add function email" />
+    <MESSAGE value="add css update" />
+    <MESSAGE value="add bootstrap" />
+    <MESSAGE value="add new css" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new css" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="508" y="247" key="#Web_Browsers" timestamp="1590421217529">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="508" y="247" key="#Web_Browsers/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590421217529" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1590416941952">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590416941952" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590417082390">
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594848361031">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590417082390" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590351466117" />
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590418260290" />
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1594848361031" />
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590783137162" />
   </component>
 </project>
