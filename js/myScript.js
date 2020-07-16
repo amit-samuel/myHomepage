@@ -25,7 +25,7 @@ $(document).ready(function() {
         terminal.append("Web developer \n");
         terminal.append("Front-end development, Back-end development\n");
         terminal.append("Entrepreneur\n");
-        terminal.append("real estate investor")
+        terminal.append("Real estate investor")
         terminal.append(help());
     }
     function email() {

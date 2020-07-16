@@ -11,7 +11,7 @@
 
 
 .main-logo {
-    position: absolute;
+    position: fixed;
     top: 10%;
     left: 10%;
     height: 20%;
@@ -19,21 +19,17 @@
 }
 
 html, body {
-    height: 100%;
     overflow: hidden;
+    width: 100%;
+    height: 100%;
 }
 
 body {
     background: var(--background-color);
     background-image: var(--main-background-img);
-    display: table-caption;
-    justify-content: center;
-    align-items: center;
 }
 
-* {
-    box-sizing: border-box;
-}
+
 
 textarea, input, button {
     outline: none;
@@ -53,11 +49,14 @@ textarea, input, button {
 
 .window {
     animation: bounceIn 1s ease-in-out;
-    width: 640px;
-    padding-top: 40%;
+    width: auto;
+    height: auto;
+    padding-top: 30%;
+    padding-left: 10%;
+
 }
 .window .handle {
-    height: 22px;
+    height: 30px;
     background: linear-gradient(0deg, #d8d8d8, #ececec);
     border-top: 1px solid white;
     border-bottom: 1px solid #b3b3b3;
@@ -87,7 +86,7 @@ textarea, input, button {
     padding: 4px;
     background-color: black;
     opacity: 0.7;
-    height: 218px;
+    height: 400px;
     color: white;
     font-family: 'Source Code Pro', monospace;
     font-weight: 200;
@@ -134,8 +133,8 @@ textarea, input, button {
 /*Footer*/
 
 .icon-so {
-    width: 5%;
-    height: 5%;
+    width: 2%;
+    height: 2%;
 }
 
 .page-footer {
@@ -147,7 +146,7 @@ textarea, input, button {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    text-align: center
+    text-align: center;
 }
 @media only screen and (min-width:200px) {
     /* For mobile phones: */
