@@ -10,11 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="fix width and height">
+    <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="fix width and height&#10;fix bug css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/myScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,7 @@
       <workItem from="1594847133865" duration="2177000" />
       <workItem from="1594880418652" duration="158000" />
       <workItem from="1594880875085" duration="44000" />
-      <workItem from="1594881171206" duration="1685000" />
+      <workItem from="1594881171206" duration="2470000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1590313779284</created>
@@ -169,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594847993299</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fix width and height&#10;fix bug css">
+      <created>1594882999388</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594882999388</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +222,8 @@
     <MESSAGE value="add css update" />
     <MESSAGE value="add bootstrap" />
     <MESSAGE value="add new css" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new css" />
+    <MESSAGE value="fix width and height&#10;fix bug css" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix width and height&#10;fix bug css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="508" y="247" key="#Web_Browsers" timestamp="1590421217529">
@@ -229,11 +234,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590416941952" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594848361031">
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594883003615">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590418260290" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1594848361031" />
+    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1594883003615" />
     <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590783137162" />
   </component>
 </project>
