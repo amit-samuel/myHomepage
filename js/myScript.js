@@ -1,10 +1,7 @@
 $(document).ready(function() {
     "use strict";
 
-    // UTILITY
-    function getRandomInt(min, max) {
-        return Math.floor(Math.random() * (max - min)) + min;
-    }
+
     // END UTILITY
 
     // COMMANDS
@@ -33,27 +30,6 @@ $(document).ready(function() {
         terminal.append(help());
     }
 
-
-/*
-    function echo(args) {
-        var str = args.join(" ");
-        terminal.append(str + "\n");
-    }
-
- */
-/*
-    function fortune() {
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'https://cdn.rawgit.com/bmc/fortunes/master/fortunes', false);
-        xhr.send(null);
-
-        if (xhr.status === 200) {
-            var fortunes = xhr.responseText.split("%");
-            var fortune = fortunes[getRandomInt(0, fortunes.length)].trim();
-            terminal.append(fortune + "\n");
-        }
-    }
-    */
 
     // END COMMANDS
 
