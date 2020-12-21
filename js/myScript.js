@@ -33,7 +33,7 @@ $(document).ready(function() {
 
     // END COMMANDS
 
-    var ls = "please select: \n" + "about " + "conact " + "work \n" + "clear " + "help " +"  email \n";
+    var ls = "please select: \n" + "About " + "Connect " + "Work \n" + "Clear " + "Help " +"  Email \n";
     var title = $(".title");
     var terminal = $(".terminal");
     var prompt = "➜";

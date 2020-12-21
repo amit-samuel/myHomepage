@@ -12,12 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6c2de9a8-2b2e-4fd9-8f99-50ea2cd926c5" name="Default Changelist" comment="add npm and nvm &#10;install express and body-parser&#10;and gitignore the node_modules">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/myScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myScript.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,20 +107,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -302,21 +288,14 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -335,6 +314,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -355,27 +335,8 @@
     <MESSAGE value="add new css" />
     <MESSAGE value="fix width and height&#10;fix bug css" />
     <MESSAGE value="add npm and nvm &#10;install express and body-parser&#10;and gitignore the node_modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="add npm and nvm &#10;install express and body-parser&#10;and gitignore the node_modules" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="508" y="247" key="#Web_Browsers" timestamp="1590421217529">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="508" y="247" key="#Web_Browsers/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590421217529" />
-    <state x="565" y="392" key="Github.Dialog.Accounts.Choose" timestamp="1595267660118">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="565" y="392" key="Github.Dialog.Accounts.Choose/-1920.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1595267660118" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1590416941952">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="221" y="100" key="SettingsEditor/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590416941952" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595266965181">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.23.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1590418260290" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1595266965181" />
-    <state x="355" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1590783137162" />
+    <MESSAGE value="add a" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
